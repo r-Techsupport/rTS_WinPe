@@ -56,7 +56,7 @@
     "wallpaperstyle comment":"value:0-strech(default);1-tile;2-center",
     "::WP_MODE":0,
     "wallpaper comment":"if it is not set or be empty, will use system's wallpaper image file",
-    "::WP":"%WinDir%\\bg.jpg"
+    "::WP":"%WinDir%\\WIndowsNT10.jpg"
   },
   "JS_THEMES": {
     "blue": {
