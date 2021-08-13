@@ -8,19 +8,23 @@ https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/download-w
 
 Run `build.ps1`
 
+#### Download
+
+https://rtech.support/uploads/rTS_WinPE.iso
+
 #### Added modules
-WinPE-WMI
-WinPE-NetFX
-WinPE-Scripting
-WinPE-PowerShell
-WinPE-SecureBootCmdlets
-WinPE-SecureStartup
-WinPE-StorageWMI
-WinPE-DismCmdlets
-WinPE-EnhancedStorage
-WinPE-FMAPI
-WinPE-WiFi-Package
-WinPE-PlatformID
+* WinPE-WMI
+* WinPE-NetFX
+* WinPE-Scripting
+* WinPE-PowerShell
+* WinPE-SecureBootCmdlets
+* WinPE-SecureStartup
+* WinPE-StorageWMI
+* WinPE-DismCmdlets
+* WinPE-EnhancedStorage
+* WinPE-FMAPI
+* WinPE-WiFi-Package
+* WinPE-PlatformID
 
 #### Tools
 
@@ -43,5 +47,5 @@ WinPE-PlatformID
 * Prime95
 
 ##### Sources
-https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/winpe-mount-and-customize
-https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/wpeinit-and-startnetcmd-using-winpe-startup-scripts 
+* https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/winpe-mount-and-customize
+* https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/wpeinit-and-startnetcmd-using-winpe-startup-scripts 
