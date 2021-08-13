@@ -38,12 +38,10 @@ https://rtech.support/uploads/rTS_WinPE.iso
 
 ##### Diagnostics
 * Speccy
-* OpenHardwareMonitor
 * Generic Log Viewer
 
 ##### Stress Testing
 * Hwinfo
-* Furmark
 * Prime95
 
 ##### Sources
