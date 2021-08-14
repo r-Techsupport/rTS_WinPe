@@ -23,6 +23,9 @@ dism /add-package /image:tmp\mount /packagepath:"$packagePath\WinPE-FMAPI.cab"
 dism /add-package /image:tmp\mount /packagepath:"$packagePath\WinPE-WiFi-Package.cab"
 dism /add-package /image:tmp\mount /packagepath:"$packagePath\WinPE-PlatformID.cab"
 
+Write-Host "Grab MUIs from this valid host..." -ForegroundColor Green
+Copy-Item -Force -Path "C:\Windows\System32\en-US\manage-bde.exe.mui" -Destination ".\tmp\mount\Windows\System32\en-US\"
+
 Write-Host "Setting scratch..." -ForegroundColor Green
 dism /set-scratchspace:512 /image:tmp\mount
 
