@@ -1,1 +1,2 @@
 wpeinit
+weputil InitializeNetwork
